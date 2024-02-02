@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+.main > img {
+    width: 200px;
+    height: 200px;
+}
